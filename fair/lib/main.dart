@@ -1,4 +1,6 @@
 import 'dart:io';
+import 'package:fair/page1.dart';
+import 'package:fair/page2.dart';
 import 'package:flutter/material.dart';
 import 'package:splashscreen/splashscreen.dart';
 import 'package:glitters/glitters.dart';
