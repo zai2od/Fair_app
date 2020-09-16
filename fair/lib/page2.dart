@@ -1,4 +1,5 @@
 
+import 'package:fair/page3.dart';
 import 'package:flutter/material.dart';
 
 class Page2 extends StatefulWidget {
